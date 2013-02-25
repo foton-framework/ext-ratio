@@ -1,0 +1,16 @@
+{
+    "name":    "foton/ratio",
+    "type":    "foton-extension",
+    "license":  "MIT",
+    "require": {
+    	"foton/installer": "*",
+        "foton/framework": "1.*",
+        "foton/user":      "1.*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "minimum-stability": "dev"
+}
