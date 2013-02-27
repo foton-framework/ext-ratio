@@ -4,8 +4,7 @@
     "license":  "MIT",
     "require": {
     	"foton/installer": "*",
-        "foton/framework": "1.*",
-        "foton/user":      "1.*"
+        "foton/framework": "1.*"
     },
     "extra": {
         "branch-alias": {
